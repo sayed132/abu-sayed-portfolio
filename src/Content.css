@@ -1,0 +1,59 @@
+
+h1{
+    font-size: 50px;
+}
+.heading-name-span{
+    color: chartreuse;
+}
+
+.flex-display{
+    display: flex;
+    padding-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.heading-pra{
+    text-align: justify;
+}
+.img{
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange,red);
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.top-banner-section{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
+.middle-section-pra{
+    padding-right: 25%;
+    text-align: justify;
+}
+.big-dream{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.img-dream{
+    width: 80%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+
+
+.experince-era{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}

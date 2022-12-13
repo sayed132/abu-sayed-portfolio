@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "projectName": "Ogerio.DotPhone",
+        "thumbnail": "https://i.ibb.co/191nPKc/screencapture-ogerio-dotphone-web-app-2022-12-12-14-05-17.png",
+        "details": "This is a second-hand mobile phone selling and buying website and can only add sales from the sales account. 3 different user dashboards are made on this website, an admin dashboard that can handle everything like user delete, and product delete, This project is my second complete stuck project end I learned a lot while doing this.",
+        "Elements": "Html, Css, Javascript, React, Tailwind, etc.",
+        "image1": "https://i.ibb.co/191nPKc/screencapture-ogerio-dotphone-web-app-2022-12-12-14-05-17.png",
+        "image2": "https://i.ibb.co/Tm4wkb2/screencapture-ogerio-dotphone-web-app-dashboard-2022-12-12-14-10-06.png",
+        "image3": "https://i.ibb.co/dbxbjxf/screencapture-ogerio-dotphone-web-app-products-All-Most-Fresh-2022-12-12-14-09-26.png",
+        "image4": "https://i.ibb.co/yYkxJjc/screencapture-ogerio-dotphone-web-app-blog-2022-12-12-14-09-41.png"
+        
+    },
+    {
+        "id": 2,
+        "projectName": "Lichit Photography",
+        "thumbnail": "https://i.ibb.co/BTzc5dr/screencapture-rst-digital-web-app-services-2022-12-12-14-06-36-1.png",
+        "details": "This website(lichit Photography) is my own hobby photography gallery website and I can show some people what I can do. In this project, I will add more and more features.",
+        "Elements": "Html, Css, Javascript, React, Tailwind, etc.",
+        "image1": "https://ibb.co/WkQ7gfhhttps://i.ibb.co/2vwRgd9/screencapture-rst-digital-web-app-2022-12-12-14-06-04.png",
+        "image2": "https://i.ibb.co/BTzc5dr/screencapture-rst-digital-web-app-services-2022-12-12-14-06-36-1.png",
+        "image3": "https://i.ibb.co/rZTMgqB/screencapture-rst-digital-web-app-services-636c4e42d79fd878d674d15b-2022-12-12-14-07-13.png",
+        "image4": "https://ibb.co/85xnHqJ?fbclid=IwAR3gFYH9qgX1p34w7GM5ikQcWmhf90ljTI5iPEbCEKhDU97Mk1T_Okiu_ss"
+        
+    },
+    {
+        "id": 3,
+        "projectName": "code.corn",
+        "thumbnail": "https://i.ibb.co/DQ1bFXL/screencapture-code-with-rafsan-web-app-2022-12-12-14-10-23.png",
+        "details": "This is a programming learning website created by me with my own skills Features in this project.",
+        "Elements": "Html, Css, Javascript, React, Tailwind, etc.",
+        "image1": "https://i.ibb.co/DQ1bFXL/screencapture-code-with-rafsan-web-app-2022-12-12-14-10-23.png",
+        "image2": "https://i.ibb.co/yhf8KNf/screencapture-code-with-rafsan-web-app-category-01-2022-12-12-14-11-17.png",
+        "image3": "https://i.ibb.co/SVkzXNH/screencapture-code-with-rafsan-web-app-course-2022-12-12-14-10-58.png",
+        "image4": "https://i.ibb.co/TvkKr9K/screencapture-code-with-rafsan-web-app-login-2022-12-12-14-11-58.png"
+        
+    },
+    {
+        "id": 4,
+        "projectName": "Doctors Portal",
+        "thumbnail": "https://i.ibb.co/30nJkLv/screencapture-doctors-portal-3cc2c-web-app-2022-12-12-14-12-51.png",
+        "details": "This website(lichit Photography) is my own hobby photography gallery website and I can show some people what I can do. In this project, I will add more and more features.",
+        "Elements": "Html, Css, Javascript, React, Tailwind, etc.",
+        "image1": "https://i.ibb.co/30nJkLv/screencapture-doctors-portal-3cc2c-web-app-2022-12-12-14-12-51.png",
+        "image2": "https://i.ibb.co/M9ZqcvJ/screencapture-doctors-portal-3cc2c-web-app-appointment-2022-12-12-14-13-16.png",
+        "image3": "https://i.ibb.co/7Xqqqgd/screencapture-doctors-portal-3cc2c-web-app-appointment-2022-12-12-14-14-18.png",
+        "image4": "https://i.ibb.co/c1zdt3n/screencapture-doctors-portal-3cc2c-web-app-dashboard-2022-12-12-14-14-35.png"
+        
+    }
+]
